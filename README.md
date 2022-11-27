@@ -1,3 +1,9 @@
+# For Better Understanding Watch This Video
+https://youtu.be/_j5Vl2GqOwk
+
+# Visit my site for more 
+https://codingmstr.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
